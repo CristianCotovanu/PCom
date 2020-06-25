@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RestAPI.dir/buffer.cpp.o CMakeFiles/RestAPI.dir/client.cpp.o CMakeFiles/RestAPI.dir/connection.cpp.o CMakeFiles/RestAPI.dir/requests.cpp.o CMakeFiles/RestAPI.dir/utils.cpp.o  -o RestAPI 

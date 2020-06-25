@@ -1,0 +1,3 @@
+/home/cristian/Desktop/Year-II/Sem-II/PCom/Projects/Client-Server-Application/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cristian/Desktop/Year-II/Sem-II/PCom/Projects/Client-Server-Application/cmake-build-debug/CMakeFiles/Client_Server.dir
+/home/cristian/Desktop/Year-II/Sem-II/PCom/Projects/Client-Server-Application/cmake-build-debug/CMakeFiles/edit_cache.dir
